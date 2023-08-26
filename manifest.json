@@ -14,5 +14,5 @@
             "16": "images/icon-16.png"
         }
     },
-    "permissions": ["activeTab"]
+    "permissions": ["activeTab", "scripting"]
 }
