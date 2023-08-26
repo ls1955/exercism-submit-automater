@@ -7,7 +7,7 @@
         "16": "images/icon-16.png"
     },
     "background": {
-        "service_worker": "buttons_clicker.js"
+        "service_worker": "background.js"
     },
     "action": {
         "default_icons": {
