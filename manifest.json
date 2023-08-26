@@ -13,5 +13,6 @@
         "default_icons": {
             "16": "images/icon-16.png"
         }
-    }
+    },
+    "permissions": ["activeTab"]
 }
